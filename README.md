@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://uniteditc.com/venu001/bannervgnit.png" alt="VGN IT Craftsmen Banner" width="100%">
+</p>
+
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=vgnndev001&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/vgnndev001?style=for-the-badge"/>
