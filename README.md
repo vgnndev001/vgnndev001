@@ -1,3 +1,11 @@
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vgnndev001&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/vgnndev001?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/vgnndev001?style=for-the-badge"/>
+</p>
+
 <h1 align="center">VGN IT Craftsmen</h1>
 
 <h3 align="center">
@@ -177,5 +185,18 @@ https://itcraftsmen.com
 <p align="center">
 
 Delivering Digital Excellence Since Day One 🚀
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vgnndev001&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vgnndev001&theme=tokyonight"/>
 
 </p>
